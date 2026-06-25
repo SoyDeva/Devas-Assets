@@ -1,0 +1,22 @@
+{
+  "assetVersion": "1.0.0",
+  "project": "Sion",
+  "app": "Devas",
+  "section": "camino",
+  "module": "practicas",
+  "practiceId": "ejercicios_lamaseria",
+  "practiceName": "Ejercicios de Lamasería",
+  "exerciseId": "lamaseria_01_giro_de_pie",
+  "exerciseNumber": 1,
+  "exerciseName": "Giro de pie",
+  "assetType": "glb",
+  "assetFile": "devas_avatar_lamaseria_v01.glb",
+  "animationName": "ejercicio_01_giro_de_pie",
+  "downloadUrl": "https://github.com/SoyDeva/Devas-Assets/releases/download/devas-assets-v1.0.0/devas_avatar_lamaseria_v01.glb",
+  "localFileName": "devas_avatar_lamaseria_v01.glb",
+  "scope": "camino/practicas/ejercicios_de_lamaseria/ejercicio_01",
+  "requiresInternetFirstTime": true,
+  "cacheAfterDownload": true,
+  "status": "active",
+  "notes": "Asset 3D externo correspondiente únicamente al Ejercicio 1 de Lamasería: Giro de pie."
+}
